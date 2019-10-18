@@ -98,7 +98,7 @@ GET /_validate/query?explain
   }, {
     "index" :       "gb",
     "valid" :       true,
-    "explanation" : "tweet:realli tweet:power"
+    "explanation" : "tweet:really tweet:power"
   } ]
 }
 --------------------------------------------------
